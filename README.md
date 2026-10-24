@@ -17,34 +17,30 @@ I'm interested in software development, backend systems, and problem-solving. I 
 
 **Languages:** C++, Python, JavaScript, Kotlin, SQL
 
-**Backend:** Node.js, Express.js, EJS
+**Backend:** Node.js, Express.js, EJS, Next.js
 
 **Databases:** PostgreSQL, MySQL
 
-**Tools:** Git, GitHub, Docker, Linux
+**Tools:** Git, GitHub, Docker, Linux, Spec-Kit
 
 ## Featured Projects
 
 ### 1. Auction Website
-A web-based auction platform with buyer, seller, and administrator features.
+
+A web-based auction platform that allows users to buy, sell, and bid on products.
 
 - **Technologies:** JavaScript, Node.js, Express.js, EJS, PostgreSQL
-- **My contribution:** [Describe the features you implemented]
-- **Repository:** [Auction project URL]
+- **Key Features:** Product listing management, auction management, and user administration.
+- **Repository:** [OnlineAuctionSystem](https://github.com/Felina86/OnlineAuctionSystem)
 
-### 2. CycloGraph-Fractal2D
-An Android application for visualizing fractals using graphics programming.
+### 2. Crypto Strategy Platform
 
-- **Technologies:** Kotlin, OpenGL ES, GLSL
-- **My contribution:** [Describe your implementation]
-- **Repository:** [CycloGraph project URL]
+A web application for creating, backtesting, and comparing cryptocurrency trading strategies.
 
-### 3. Image Stitching
-An image stitching project implementing the SIFT feature extraction pipeline in C++.
-
-- **Technologies:** C++
-- **My contribution:** [Describe your implementation]
-- **Repository:** [Image Stitching project URL]
+- **Technologies:** JavaScript, TypeScript, Next.js, PostgreSQL, Supabase
+- **Key Features:** Strategy Composer, Backtesting, and Leaderboard.
+- **My Contributions:** Contributed to feature development, modular architecture design, UI design, and software testing. Created a Spec-Kit usage guide to support the team's AI-assisted development workflow.
+- **Repository:** [Crypto Strategy Platform](https://github.com/PhamVanMinhBinhThuan/crypto-strategy-platform)
 
 ## Currently Working On
 
@@ -54,6 +50,6 @@ An image stitching project implementing the SIFT feature extraction pipeline in 
 
 ## Contact
 
-- GitHub: https://github.com/[your-username]
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- **GitHub:** https://github.com/Felina86
+- **LinkedIn:** https://www.linkedin.com/in/tiến-huỳnh-3a93b8397/
+- **Email:** huynhtien19222@gmail.com
